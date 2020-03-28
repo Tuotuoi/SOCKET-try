@@ -1,18 +1,18 @@
 /*************************************************************************
-	> File Name: head.h
-	> Author: 
-	> Mail: 
-	> Created Time: 2020年03月28日 星期六 14时29分42秒
+	> File Name: ../common/head.h
+	> Author: suyelu
+	> Mail: suyelu@haizeix.com
+	> Created Time: 六  3/28 14:23:19 2020
  ************************************************************************/
 
-#ifndef _HEAD_H
-#define _HEAD_H
-#include<stdio.h>
-#include<sys/types.h>
-#include<sys/socket.h>
-#include<arpa/inet.h>
-#include<unistd.h>
-#include<stdlib.h>
-#include<pthread.h>
-
+#ifndef HEAD_H
+#define HEAD_H
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+#include <sys/types.h>
+#include <sys/socket.h>
+#include <arpa/inet.h>
+#include <pthread.h>
+#include <string.h>
 #endif
